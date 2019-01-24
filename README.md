@@ -1,2 +1,2 @@
-# HackerRank_10_days_of_Statistics
-Learn probability, distribution, regression and more
+# 10 days of Statistics from Hacker Rank tutorial
+
