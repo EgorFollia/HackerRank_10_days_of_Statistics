@@ -20,5 +20,5 @@ if __name__ == '__main__':
 or you can use scipy and numpy
 np.mean(x)
 np.median(x)
-scipy.stats.mode(x)
+scipy.ndimage.mode(x[0])
 '''
